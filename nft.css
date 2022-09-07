@@ -1,0 +1,47 @@
+body{
+    background-color: rgb(3, 3, 44);
+}
+.container{
+    width: 300px;
+    height: 450px;
+    background-color: darkblue;
+    border-radius: 10px;
+    top: 30%;
+    position: absolute;
+    left: calc(450px);
+}
+img{
+    width: 200px;
+    height: 200px;
+    top: 34%;
+    position: absolute;
+    left: calc(490px);
+    border-radius: 10px;
+}
+.container2{
+    top: 65%;
+    position: absolute;
+    left: calc(460px);
+    }
+    .container3{
+        top: 73%;
+        position: absolute;
+        left: calc(460px); 
+    }
+    .container4{
+        top: 83%;
+        position: absolute;
+        left: calc(460px);
+    }
+    .container5{
+        top: 83%;
+        position: absolute;
+        left: calc(650px);
+    }
+    .container6{
+        top: 73%;
+        position: absolute;
+        left: calc(459px);
+        width: 50px;
+        height: 50px;
+    }
